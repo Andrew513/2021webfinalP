@@ -1,0 +1,7 @@
+.table {
+    overflow-wrap: inherit;
+    color: white;
+    font-family: Avenir-Roman, sans-serif;
+    font-size: 16px;
+    box-sizing: border-box;
+}
